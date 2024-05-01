@@ -20,7 +20,8 @@ Torque reversal mechanism and jumping microrobot A) A photo of the microrobot ne
 
 
 
-https://github.com/RobotFormAndFunction/TorqueReversalMicrorobots/assets/98366383/e35d7aee-5ffb-400e-b3d6-9d559f7c3fd7
+
+https://github.com/RobotFormAndFunction/TorqueReversalMicrorobots/assets/98366383/931e3987-4d5a-4ece-b755-24c3373b423f
 A demonstration of the microrobot jumping.
 
 
