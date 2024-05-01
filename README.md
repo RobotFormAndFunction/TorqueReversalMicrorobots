@@ -20,8 +20,8 @@ Torque reversal mechanism and jumping microrobot A) A photo of the microrobot ne
 
 
 
+[<img width="976" alt="VideoS1" src="https://github.com/RobotFormAndFunction/TorqueReversalMicrorobots/assets/98366383/d97969de-a989-413a-8a09-802d07949f7b">](https://github.com/RobotFormAndFunction/TorqueReversalMicrorobots/assets/98366383/931e3987-4d5a-4ece-b755-24c3373b423f)
 
-https://github.com/RobotFormAndFunction/TorqueReversalMicrorobots/assets/98366383/931e3987-4d5a-4ece-b755-24c3373b423f
 A demonstration of the microrobot jumping.
 
 
@@ -29,6 +29,7 @@ A demonstration of the microrobot jumping.
 
 
 https://github.com/RobotFormAndFunction/TorqueReversalMicrorobots/assets/98366383/b4ac29d3-10ef-430d-a00a-eba8452dc34a
+
 A comparison between actuation a robot at 6 V vs. 10 V
 
 
