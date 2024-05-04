@@ -8,9 +8,9 @@
 
 
 # Overview
-This repository contains mathematical models and experimental video files for the torque reversal microrobot in link. 
+This repository contains mathematical models and experimental video files for the torque reversal microrobot described in [Design and control of jumping microrobots with torque reversal latches](https://iopscience.iop.org/article/10.1088/1748-3190/ad46b9)
 
-To cite:
+
 
 ![FIG1_overview_v5](https://github.com/RobotFormAndFunction/TorqueReversalMicrorobots/assets/98366383/cf7234e5-ecd3-4ab4-a834-b8a3a0787602)
 
