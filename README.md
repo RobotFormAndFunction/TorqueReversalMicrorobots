@@ -17,7 +17,7 @@ To cite:
   DOI = {10.1088/1748-3190/ad46b9},
   journal = {Bioinspiration &amp; Biomimetics},
   publisher = {IOP Publishing},
-  author = {Skowronski,  Nolan and Malek Pour,  Mohammadamin and Singh,  Shashwat and Longo,  S J and St. Pierre,  R},
+  author = {Skowronski,  Nolan and Malek Pour,  Mohammadamin and Singh,  Shashwat and Longo,  S J and St.~Pierre,  R},
   year = {2024},
   month = {May} 
 }
